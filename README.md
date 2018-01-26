@@ -1,4 +1,6 @@
 # BlockUI - Page or element overlay
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fblockui.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fblockui?ref=badge_shield)
+
 
 ## Getting Started
 Download either the [production version][min] or the [development version][max] of BlockUI.
@@ -36,3 +38,6 @@ You may use either license.  The MIT license is recommended for most projects be
 If the GPL suits your project better you are also free to use the plugin under that license.
 
 You do not have to do anything special to choose one license or the other and you don't have to notify anyone which license you are using. You are free to use the BlockUI plugin in commercial projects as long as the copyright header is left intact.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fblockui.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fblockui?ref=badge_large)
